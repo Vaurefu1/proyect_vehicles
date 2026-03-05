@@ -18,3 +18,5 @@ Tecnologías aplicadas:
 - Streamlit
 - Plotly
 - Render
+
+link repository: https://github.com/Vaurefu1/proyect_vehicles
